@@ -98,11 +98,15 @@ Configure the secret names and values expected by the notebook before running th
 Screenshots demonstrating the completed authentication workflow are available in the `screenshots/` directory.
 
 - Login page
+- ![Login Page](screenshots/login.png)
 - Signup page
+- ![Signup Page](screenshots/signup.png)
 - Security-question password recovery
-- Email OTP password recovery
+- ![Security Question Recovery](screenshots/forgot-security-question.png)
 - User dashboard
+- ![User Dashboard](screenshots/user-dashboard.png)
 - Administrator dashboard
+- ![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ### 9. Testing
 

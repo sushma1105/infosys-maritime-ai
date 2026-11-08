@@ -158,19 +158,31 @@ The Copilot should retrieve answers using actual database queries rather than ge
 
 ## 8. Screenshots
 
-The `screenshots/` folder contains evidence of the application's functionality.
+## 8. Screenshots
 
-| Screenshot | Description |
-|---|---|
-| 01-login.png | User login page |
-| 02-signup.png | User registration page |
-| 03-profile.png | Logged-in user's profile |
-| 04-admin-dashboard.png | Admin dashboard displaying the users table |
-| 05-access-denied-403.png | HTTP 403 response for a restricted action |
-| 06-copilot-database-question.png | Copilot answering a database-related question |
-| 07-copilot-greeting.png | Copilot responding to a greeting |
-| 08-generated-quote.png | Generated freight quote |
-| 09-weather-risk-after-storm.png | Weather page displaying risk after a storm |
+The following screenshots demonstrate the key features and functionality of FreightQuote AI – Milestone 2.
+
+### 8.1 Login Page
+![Login Page](screenshots/login.png)
+
+### 8.2 Signup Page
+![Signup Page](screenshots/signup.png)
+
+### 8.3 User Profile
+![User Profile](screenshots/profile.png)
+
+### 8.4 Admin Dashboard
+![Admin Dashboard](screenshots/admin-dashboard.png)
+
+### 8.5 AI Copilot – Greeting
+![AI Copilot Greeting](screenshots/copilot-greeting.png)
+
+### 8.6 Generated Freight Quote
+![Generated Freight Quote](screenshots/generated-quote.png)
+
+### 8.7 Weather Risk After Storm
+![Weather Risk After Storm](screenshots/weather-risk-after-storm.png)
+
 
 ## 9. Security and Testing
 

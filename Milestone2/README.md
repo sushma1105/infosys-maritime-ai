@@ -168,14 +168,14 @@ The following screenshots demonstrate the key features and functionality of Frei
 ### 8.2 Signup Page
 ![Signup Page](screenshots/signup.png)
 
-### 8.3 User Profile
-![User Profile](screenshots/profile.png)
+### 8.3 Profile
+![Profile with light mode on](screenshots/profile.png)
 
 ### 8.4 Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
 ### 8.5 AI Copilot – Greeting
-![AI Copilot Greeting](screenshots/copilot-greeting.png)
+![AI Copilot Greeting with light mode on](screenshots/copilot-greeting.png)
 
 ### 8.6 Generated Freight Quote
 ![Generated Freight Quote](screenshots/generated-quote.png)

@@ -160,7 +160,9 @@ The Copilot should retrieve answers using actual database queries rather than ge
 
 ## 8. Screenshots
 
-The following screenshots demonstrate the key features and functionality of FreightQuote AI – Milestone 2.
+## 8. Screenshots
+
+The following screenshots showcase the application's interface and key functionalities.
 
 ### 8.1 Login Page
 ![Login Page](screenshots/login.png)
@@ -168,14 +170,14 @@ The following screenshots demonstrate the key features and functionality of Frei
 ### 8.2 Signup Page
 ![Signup Page](screenshots/signup.png)
 
-### 8.3 Profile
-![Profile with light mode on](screenshots/profile.png)
+### 8.3 User Profile with Light Mode
+![User Profile with Light Mode](screenshots/profile.png)
 
 ### 8.4 Admin Dashboard
 ![Admin Dashboard](screenshots/admin-dashboard.png)
 
-### 8.5 AI Copilot – Greeting
-![AI Copilot Greeting with light mode on](screenshots/copilot-greeting.png)
+### 8.5 AI Copilot Greeting with Light Mode
+![AI Copilot Greeting with Light Mode](screenshots/copilot-greeting.png)
 
 ### 8.6 Generated Freight Quote
 ![Generated Freight Quote](screenshots/generated-quote.png)

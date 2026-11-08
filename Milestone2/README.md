@@ -104,11 +104,9 @@ Milestone2/
     ├── 02-signup.png
     ├── 03-profile.png
     ├── 04-admin-dashboard.png
-    ├── 05-access-denied-403.png
-    ├── 06-copilot-database-question.png
-    ├── 07-copilot-greeting.png
-    ├── 08-generated-quote.png
-    └── 09-weather-risk-after-storm.png
+    ├── 05-copilot-greeting.png
+    ├── 06-generated-quote.png
+    └── 07-weather-risk-after-storm.png
 ```
 
 ## 6. Setup and Execution
